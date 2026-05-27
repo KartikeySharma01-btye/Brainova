@@ -1,6 +1,15 @@
+<<<<<<< HEAD
 node_modules/
 venv/
 .env
 __pycache__/
 dist/
 build/
+=======
+venv
+.venv
+__pycache__
+uploads
+vector_db
+.env
+>>>>>>> dfeb0a181944333f866f40ca4abb1cac46b4a7ca
