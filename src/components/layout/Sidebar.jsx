@@ -24,7 +24,7 @@ import {
   deleteFile,
 } from "../../api/fileApi";
 
-import useChatStore from "../../store/ChatStore";
+import useChatStore from "../../store/chatStore";
 
 function Sidebar() {
 
