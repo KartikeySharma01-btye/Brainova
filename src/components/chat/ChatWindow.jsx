@@ -17,7 +17,7 @@ import {
   getChatMessages,
 } from "../../api/chatApi";
 
-import useChatStore from "../../store/ChatStore";
+import useChatStore from "../../store/chatStore";
 
 function ChatWindow() {
 
