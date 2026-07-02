@@ -16,7 +16,7 @@ Brainova AI is an intelligent AI-powered learning assistant designed to provide 
 
 Users can upload PDF documents, ask questions about their content, and receive accurate context-aware responses using Retrieval-Augmented Generation (RAG) and Large Language Models (LLMs).
 
-The platform combines FastAPI, React, MongoDB, LangChain, ChromaDB, and Groq-powered LLMs to create a seamless conversational AI experience.
+The platform combines FastAPI, React, MongoDB, LangChain, ChromaDB, and Grok-powered LLMs to create a seamless conversational AI experience.
 
 ---
 
